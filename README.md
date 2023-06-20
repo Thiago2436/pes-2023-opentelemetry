@@ -1,4 +1,4 @@
-# Platform Engineer Summit - LinuxTips - 2023
+
 ---
 ## Deploy das Ferramentos de Observabilidade:
  - Grafana
