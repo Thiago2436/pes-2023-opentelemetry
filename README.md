@@ -5,7 +5,7 @@
  - Loki
  - Mimir
  - Tempo
-
+> code
 ```bash
 kubectl apply -f 01-backend.yaml
 ````
